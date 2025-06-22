@@ -27,19 +27,19 @@ Permite Crear, Leer, Actualizar y Eliminar (CRUD) registros en cada tabla median
 
 ## Configuración
 
-1. **Base de datos:**
+1. Base de datos:
 
    - Crea una base de datos llamada ventas.
    - Crea las tablas `VENDEDORES`, `PRODUCTOS` y `VENTAS` con la estructura que uses (ejemplo):
 
-2. **Configura la conexión a la base de datos en `index.php`:**
+2. Configura la conexión a la base de datos en `index.php`
 
-3. **Sube los archivos a tu servidor web **
+3. Subir los archivos a tu servidor web 
 
-4. **Accede desde el navegador:**
+4. Accede desde el navegador:
 
    Abre la URL donde está el proyecto
-   ```
+
 ---
 
 ## Funciones
